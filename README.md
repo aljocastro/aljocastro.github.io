@@ -26,4 +26,4 @@ B.S., Financial Engineering | International University (_2018_)
 - Conducted credit assessments for lease applications and collaborated in the structure of lease agreements.
 - Prepared and presented financial reports to management, highlighting key performance indicators and areas for improvement.
 
-## Projectskkn
+## Projectsk

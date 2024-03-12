@@ -12,7 +12,7 @@ Bachelor of Science, Financial Engineering (_2018_)
 
 **Customer Service Specialist @ Amazon Services (_Sept 2022 - Present_)**
 - Proactively identify opportunities to improve customer service processes and procedures.
-- Implementing targeted sales strategies, execution of marketing campaigns and product information.
+- Implementing targeted sales strategies, execution of marketing campaigns and update product information.
 
 **Jr. Financial Data Analyst @ Federal Government SA (_Jan 2018 - Dec 2021_)**
 - Conducted data collection, processing and analysis of quantitative data, to analyze the impact of global economy descisions in the financial system and the stock market.

@@ -8,7 +8,7 @@ Bachelor of Science, Financial Engineering (_2018_)
 ## Work Experience
 **Data Analyst Consultant @ Carrier Squirrel LLC (Dec 2022 - Present)**
 - Conducted data collection, processing, and analysis for marketing research evaluating the components that impact retail price products.
-- Applied neural networks and random forest machine learning algorithms to quantitative data, to develop targeted price hikes and recommend a **Retail Price Estimation**.
+- Applied random forest machine learning algorithms to quantitative data, to develop targeted price hikes and recommend a **Retail Price Estimation**.
 
 **Customer Service Specialist @ Amazon Services (_Sept 2022 - Present_)**
 - Proactively identify opportunities to improve customer service processes and procedures.

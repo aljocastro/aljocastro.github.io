@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, R, Tableau, MySQL
 
 ## Education
-Bachelor of Science, Financial Engineering (_2018_)
+- Bachelor of Science, Financial Engineering (_2018_)
 
 ## Work Experience
 **Data Analyst Consultant @ Carrier Squirrel LLC (Dec 2022 - Present)**

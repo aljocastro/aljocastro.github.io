@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, R, Tableau, MySQL
+#### Technical Skills: Python, SQL, R, Tableau, MySQL, PowerBI, BigQuery.
 
 ## Education
 Bachelor of Science, Financial Engineering (_2018_)

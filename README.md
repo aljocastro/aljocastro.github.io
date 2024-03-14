@@ -16,12 +16,12 @@ Bachelor of Science, Financial Engineering (_2018_)
 
 **Jr. Financial Data Analyst @ Federal Government SA (_Jan 2018 - Dec 2021_)**
 - Conducted data collection, processing and analysis of quantitative data, to analyze the impact of global economy descisions in the financial system and the stock market.
-- Statistical analysis to identify, evaluate and predict risk exposure of investment portfolios, using **R environment** and **Tableau** vizualization tools for insights presentation.
-- Co-lead a cross-functional team to conduct the transition into **Python** integrated analytical software, implementated metadata repositories in **MySQL** and perform a data quality syncronization from data warehouse.
+- Statistical analysis to identify, evaluate and predict risk exposure of investment portfolios.
+- Co-lead a cross-functional team to conduct the transition to an integrated analytical software, implementated metadata repositories and perform a data warehouse syncronization.
 
 **Financial Analyst @ Rentek Operational Solutions (_Sep 2015 - Dec 2017_)**
 - Analyzed financial statements, credit reports, and outlined industry trends. Designed interactive dashboards in **PowerBI**, highlighting key performance indicators and areas for improvement.
-- Established several **SQL** database queries and **Excel** spreadsheet report processes, that improved the quality of the data, analysis tasks and inventory control.
+- Established several database/spreadsheet report processes, that improved the quality of the data and analysis tasks for inventory control.
 
 ## Projects
 ### D

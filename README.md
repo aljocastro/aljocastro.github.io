@@ -20,7 +20,7 @@ Bachelor of Science, Financial Engineering (_2018_)
 - Co-lead a cross-functional team to conduct the transition to an integrated analytical software, implementated metadata repositories and perform a data warehouse syncronization.
 
 **Financial Analyst @ Rentek Operational Solutions (_Sep 2015 - Dec 2017_)**
-- Analyzed financial statements, credit reports, and outlined industry trends. Designed interactive dashboards, highlighting key performance indicators and areas for improvement.
+- Analyzed financial statements, credit reports, and outlined industry trends. Designed interactive dashboards, highlighting areas of improvement and key performance indicators.
 - Established several database/spreadsheet report processes, that improved the quality of the data and analysis tasks for inventory control.
 
 ## Projects

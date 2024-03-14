@@ -6,7 +6,7 @@
 Bachelor of Science, Financial Engineering (_2018_)
 
 ## Work Experience
-**Data Analyst Consultant @ Carrier Squirrel LLC (Feb 2023 - Present)**
+**Data Analyst Consultant @ Carrier Squirrel LLC (Nov 2022 - Present)**
 - Conducted data collection, processing, and analysis for marketing research, evaluating the components that impact retail price products.
 - Applied random forest machine learning algorithms to quantitative data, to develop targeted price hikes and recommend a **Retail Price Estimation**.
 

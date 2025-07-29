@@ -1,10 +1,10 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, JSON, R, Tableau, PowerBI, BigQuery, Azure.
+#### Technical Skills: Python, SQL, JSON, R, Tableau, PowerBI, BigQuery, MS Azure, MongoDB, EPR and CRM.
 
 ## Education
 Bachelor of Science, Financial Engineering (_2018_)
-Master of Science, Data Analytics (_2018_)
+Master of Science, Data Analytics (_2026_)
 
 ## Work Experience
 **Quality Assurance Analyst @ Sonic Manufacturing Technologies (March 2025 - Present)**

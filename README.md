@@ -1,23 +1,32 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, R, Tableau, MySQL, PowerBI, BigQuery.
+#### Technical Skills: Python, SQL, JSON, R, Tableau, PowerBI, BigQuery, Azure.
 
 ## Education
 Bachelor of Science, Financial Engineering (_2018_)
+Master of Science, Data Analytics (_2018_)
 
 ## Work Experience
-**Data Analyst Consultant @ Carrier Squirrel LLC (Nov 2022 - Present)**
-- Conducted data collection, processing, and analysis for marketing research, evaluating the components that impact retail price products.
-- Applied random forest machine learning algorithms to quantitative data, to develop targeted price hikes and recommend a **Retail Price Estimation**.
+**Quality Assurance Analyst @ Sonic Manufacturing Technologies (March 2025 - Present)**
+- Quality reporting and process improvement, generating detailed quality performance metrics reports for management review for data-driven decision-making and continuous improvement. 
+- Implementing projects to automate data collection for in-process quality checks and streamline defect resolution processes by 20%.
+- Collaborating with engineering and production teams to improve product quality and process efficiency.
 
-**Jr. Financial Data Analyst @ Federal Government SA (_Jan 2018 - Dec 2021_)**
-- Processed, analyzed and interpreted large datasets to identify trends and insights from quantitative data.
-- Applied statistical analysis to identify, evaluate and predict risk exposure using R environment. Cleaned and transformed data in MySQL and presented findings through Tableau data visualization tools to stakeholders. 
-- Established several SQL queries and script processes, improving code scalability, data accessibility, and 20% increase in data accuracy.
+**Data Analyst Consultant @ Non-Profit Organization (Jan 2024 - Dec 2024)**
+- Collect, process, analyze, and interpret datasets to identify trends, insights, and relationships between data.
+- Develop data models, statistical summaries, dashboards, and reports to provide recommendations.
+- Collaborate with cross-functional teams to conduct data quality checks and ETL processes.
+
+**Financial Data Analyst @ Federal Government (_Jan 2018 - Dec 2021_)**
+- Processed, analyzed, and interpreted complex datasets to identify trends and present insights to stakeholders.
+- Data modeling and statistical analysis, to identify, evaluate, and predict risk exposure.
+- SQL queries and script processes, improving code scalability and data accessibility.
+- Integration of BI analytical software and implementation of data cube structures, OLAP, for better analysis reports.
 
 **Financial Analyst @ Rentek Operational Solutions (_Sep 2015 - Dec 2017_)**
-- Analyzed financial statements, credit reports, and outlined industry trends for stakeholders. Create reports using PowerBI to conduct trend analysis and enhance financial reporting capabilities.
-- Established several spreadsheet report processes in Excel that improved quality and accessibility of data.
+- Analyzed financial statements, credit reports, and outlined industry trends for stakeholders.
+- Create reports to conduct trend analysis and enhance financial reporting capabilities.
+- Automated several report processes that improved quality and accessibility of data, and reduced report generation time.
 
 
 ## Projects

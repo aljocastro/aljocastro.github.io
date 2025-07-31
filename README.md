@@ -17,7 +17,7 @@ Master of Science, Data Analytics (_2026_)
 - Develop data models, statistical summaries, dashboards, and reports to provide recommendations.
 - Collaborate with cross-functional teams to conduct data quality checks and ETL processes.
 
-**Financial Data Analyst @ Federal Government (_Jan 2018 - Dec 2021_)**
+**Financial Data Analyst @ Federal Government (_Jan 2018 - Dec 2023_)**
 - Processed, analyzed, and interpreted complex datasets to identify trends and present insights to stakeholders.
 - Data modeling and statistical analysis, to identify, evaluate, and predict risk exposure.
 - SQL queries and script processes, improving code scalability and data accessibility.

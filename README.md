@@ -3,7 +3,7 @@
 #### Technical Skills: Python, R, SQL, JSON, Tableau, PowerBI, MS Azure.
  
 ## Education
-Bachelor of Science, Financial Engineering (_2018_)
+Bachelor of Science, Financial Engineering (_2018_)  
 Master of Science, Data Analytics (_2026_)
 
 ## Work Experience

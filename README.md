@@ -4,7 +4,10 @@
  
 ## Education  
 Master of Science, Data Analytics (_2026_)  <br>
-Bachelor of Science, Financial Engineering (_2018_)  
+
+Bachelor of Science, Finance (_2018_)  <br>
+<sup>Minor in Business & Economics</sup>
+
 
 ## Work Experience
 **Quality Assurance Analyst @ Sonic Manufacturing Technologies (March 2025 - Present)**

@@ -2,9 +2,9 @@
 
 #### Technical Skills: Python, R, SQL, JSON, Tableau, PowerBI, MS Azure.
  
-## Education
-Bachelor of Science, Financial Engineering (_2018_)  <br>
-Master of Science, Data Analytics (_2026_)
+## Education  
+Master of Science, Data Analytics (_2026_)  <br>
+Bachelor of Science, Financial Engineering (_2018_)  
 
 ## Work Experience
 **Quality Assurance Analyst @ Sonic Manufacturing Technologies (March 2025 - Present)**

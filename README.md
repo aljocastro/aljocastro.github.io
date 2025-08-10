@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, JSON, R, Tableau, PowerBI, BigQuery, MS Azure, MongoDB, EPR and CRM.
+#### Technical Skills: Python, R, SQL, JSON, Tableau, PowerBI, MS Azure.
 
 ## Education
 Bachelor of Science, Financial Engineering (_2018_)
@@ -30,10 +30,16 @@ Master of Science, Data Analytics (_2026_)
 
 
 ## Projects
-### D
-[Publication](https://www.)
+### [Amazon Web Scraper Using Python](https://aljocastro.github.io/AmazonWebScraper/)  
+This Amazon Price Tracker is a Python automation tool that monitors Amazon product prices and sends an email alert when the price drops below a defined threshold.
+It uses BeautifulSoup and Requests to scrape live product data, logs each check with a timestamp for historical tracking, and leverages smtplib to deliver instant notifications.
 
-D
+<ins>Key Highlights:</ins>  
+  🔍 Web Scraping – Extracts product title, price, and other key details directly from Amazon product pages.  
+  ⏱ Scheduled Checks – Can run at set intervals to keep price data up to date.  
+  📊 Data Logging – Saves timestamps and price history, can be used for trend analysis.  
+  📧 Email Alerts – Notifies you instantly when the price drops below your desired limit.  
+  🛠 Tech Stack – Python, BeautifulSoup, Requests, smtplib.
 
 ![E](.jpeg)
 

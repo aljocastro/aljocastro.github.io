@@ -11,9 +11,9 @@ Bachelor of Science, Finance (_2018_)  <br>
 
 ## Work Experience
 **Quality Assurance Analyst @ Sonic Manufacturing Technologies (March 2025 - Present)**
-- Quality reporting and process improvement, generating quality performance metrics reports for data-driven decision-making and continuous improvement. 
-- Implementing projects to automate data collection for in-process quality checks and streamline defect resolution processes by 20%.
-- Collaborating with engineering and production teams to improve product quality and process efficiency.
+- Monitor and analyze quality performance metrics, producing actionable reports to inform data-driven decision-making and drive continuous process improvement.
+- Develop and execute automated data-collection workflows to enhance in-process quality monitoring and reduced defect resolution turnaround by 20%.
+- Partnered with engineering and production teams to elevate product quality and streamline processes—achieving a 15% reduction in defect leakage and improving process efficiency.
 
 **Data Analyst Consultant @ Non-Profit Organization (Jan 2024 - Dec 2024)**
 - Collect, process, analyze, and interpret datasets to identify trends, insights, and relationships between data.

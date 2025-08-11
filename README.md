@@ -11,7 +11,7 @@ Bachelor of Science, Finance (_2018_)  <br>
 
 ## Work Experience
 **Quality Assurance Analyst @ Sonic Manufacturing Technologies (March 2025 - Present)**
-- Quality reporting and process improvement, generating detailed quality performance metrics reports for management review for data-driven decision-making and continuous improvement. 
+- Quality reporting and process improvement, generating quality performance metrics reports for data-driven decision-making and continuous improvement. 
 - Implementing projects to automate data collection for in-process quality checks and streamline defect resolution processes by 20%.
 - Collaborating with engineering and production teams to improve product quality and process efficiency.
 

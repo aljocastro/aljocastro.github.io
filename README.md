@@ -44,7 +44,7 @@ It uses BeautifulSoup and Requests to scrape live product data, logs each check 
   📧 Email Alerts – Notifies you instantly when the price drops below your desired limit.  
   🛠 Tech Stack – Python, BeautifulSoup, Requests, smtplib.
 
-![Web Scrapping](web-scraping.jpg)
+<p align="center"><img src="web-scraping.jpg" alt="Web Scrapping" width="600" height="400"></p>
 
 ### D
 [Publication](https://www.)

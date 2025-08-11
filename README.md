@@ -49,8 +49,8 @@ It uses BeautifulSoup and Requests to scrape live product data, logs each check 
 ### D
 [Publication](https://www.)
 
-Used **Python** to train 
+<!--Used **Python** to train
 
 ![B](.jpeg)
 
-## Talks & Lectures
+## Talks & Lectures -->

@@ -59,4 +59,4 @@ This project is a near real-time cryptocurrency analytics pipeline built with Py
 
 ![B](.jpeg)
 
-## Talks & Lectures -->
+## Certifications -->

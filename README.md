@@ -50,12 +50,12 @@ It uses BeautifulSoup and Requests to scrape live product data, logs each check 
 ### [Crypto Real Time Analytics](https://aljocastro.github.io/Crypto-Real-Time-Analytics/)
 This project is a near real-time cryptocurrency analytics pipeline built with Python. It continuously fetches cryptocurrency prices from the CoinGecko API every minute, enhances the raw data with rolling averages, volatility, and percent change, and load the results that power an interactive Tableau dashboard to be used real-time analysis.
 
-<ins>Key Highlights:<ins/>  
-  📡 API Integration – Pulls live market data directly from CoinGecko
-  ⏱ Real-Time Updates – Fetches new records every minute
-  📊 Advanced Metrics – Rolling averages, volatility, and % changes
-  🎨 Interactive Dashboards – Built with Tableau Public
-  🧩 ETL Workflow – Extract → Transform → Load data
+<ins>Key Highlights:</ins>  
+  📡 API Integration – Pulls live market data directly from CoinGecko  
+  ⏱ Real-Time Updates – Fetches new records every minute  
+  📊 Advanced Metrics – Rolling averages, volatility, and % changes  
+  🎨 Interactive Dashboards – Built with Tableau Public  
+  🧩 ETL Workflow – Extract → Transform → Load data  
 
 ![B](.jpeg)
 

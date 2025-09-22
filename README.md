@@ -68,6 +68,6 @@ This Tableau-based business intelligence dashboard solution was designed to moni
   🌎 Regional managers - filtering performance by state or city  
   📊 Executives - exploring KPIs and trends at a glance 
 
-<p align="center"><img src="Screenshot 2025.png" alt="Business Performance Dashboard" width="400" height="200"></p>
+<p align="center"><img src="Screenshot 2025.png" alt="Business Performance Dashboard" width="400" height="250"></p>
 
 ## Certifications -->

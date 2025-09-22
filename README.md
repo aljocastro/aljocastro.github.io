@@ -45,7 +45,7 @@ It uses BeautifulSoup and Requests to scrape live product data, logs each check 
   📧 Email Alerts – Notifies you instantly when the price drops below your desired limit.  
   🛠 Tech Stack – Python, BeautifulSoup, Requests, smtplib.
 
-<p align="center"><img src="web-scraping.jpg" alt="Web Scrapping" width="300" height="150"></p>
+<p align="center"><img src="web-scraping.jpg" alt="Web Scrapping" width="400" height="200"></p>
 
 ### [Crypto Real Time Analytics](https://aljocastro.github.io/Crypto-Real-Time-Analytics/)
 This project is a near real-time cryptocurrency analytics pipeline built with Python. It continuously fetches cryptocurrency prices from the CoinGecko API every minute, enhances the raw data with rolling averages, volatility, and percent change, and load the results that power an interactive Tableau dashboard to be used real-time analysis.
@@ -56,6 +56,17 @@ This project is a near real-time cryptocurrency analytics pipeline built with Py
   📊 Advanced Metrics – Rolling averages, volatility, and % changes  
   🎨 Interactive Dashboards – Built with Tableau Public  
   🧩 ETL Workflow – Extract → Transform → Load data  
+
+![B](.jpeg)
+
+### [Tableau Business Performance Dashboard](https://aljocastro.github.io/Tableau-Customer-Dashboard/)
+This Tableau-based business intelligence dashboard solution was designed to monitor and analyze Sales Performance and Customer Behavior on a year-over-year basis. It allows business users to explore key metrics performance, trend analysis and customer segmentation through interactive, filterable dashboards for dynamic exploration.
+
+<ins>Use Cases:</ins>  
+  📈 Sales teams - reviewing YoY product performance  
+  👥 Marketing - analyzing high-value and loyal customers  
+  🌎 Regional managers - filtering performance by state or city  
+  📊 Executives - exploring KPIs and trends at a glance 
 
 ![B](.jpeg)
 

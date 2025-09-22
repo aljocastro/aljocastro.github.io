@@ -63,10 +63,10 @@ This project is a near real-time cryptocurrency analytics pipeline built with Py
 This Tableau-based business intelligence dashboard solution was designed to monitor and analyze Sales Performance and Customer Behavior on a year-over-year basis. It allows business users to explore key metrics performance, trend analysis and customer segmentation through interactive, filterable dashboards for dynamic exploration.
 
 <ins>Use Cases:</ins>  
-  📈 Sales teams - reviewing YoY product performance  
-  👥 Marketing - analyzing high-value and loyal customers  
-  🌎 Regional managers - filtering performance by state or city  
-  📊 Executives - exploring KPIs and trends at a glance 
+  📈 Sales teams - Reviewing YoY product performance  
+  👥 Marketing - Analyzing high-value and loyal customers  
+  🌎 Regional managers - Filtering performance by state or city  
+  📊 Executives - Exploring KPIs, drill-down and trends at a glance 
 
 <p align="center"><img src="Screenshot 2025.png" alt="Business Performance Dashboard" width="400" height="250"></p>
 

@@ -57,7 +57,7 @@ This project is a near real-time cryptocurrency analytics pipeline built with Py
   🎨 Interactive Dashboards – Built with Tableau Public  
   🧩 ETL Workflow – Extract → Transform → Load data  
 
-<p align="center"><img src="5-Basics-of-Cryptocurrency-Technical-Analysis-new.png" alt="Cryptocurrency" width="450" height="225"></p>
+<p align="center"><img src="5-Basics-of-Cryptocurrency-Technical-Analysis-new.png" alt="Cryptocurrency" width="400" height="200"></p>
 
 ### [Tableau Business Performance Dashboard](https://aljocastro.github.io/Tableau-Customer-Dashboard/)
 This Tableau-based business intelligence dashboard solution was designed to monitor and analyze Sales Performance and Customer Behavior on a year-over-year basis. It allows business users to explore key metrics performance, trend analysis and customer segmentation through interactive, filterable dashboards for dynamic exploration.
@@ -68,6 +68,6 @@ This Tableau-based business intelligence dashboard solution was designed to moni
   🌎 Regional managers - filtering performance by state or city  
   📊 Executives - exploring KPIs and trends at a glance 
 
-![Cr](.jpeg)
+<p align="center"><img src="Screenshot 2025.png" alt="Business Performance Dashboard" width="400" height="200"></p>
 
 ## Certifications -->
